@@ -8,7 +8,7 @@ import time
 # Asegúrate de que la hoja esté compartida como "Editor" para "Cualquier persona con el enlace".
 # Puedes dejar un valor placeholder ahora, pero DEBES cambiarlo por la URL real de tu Google Sheet
 # ANTES de desplegar en Streamlit Community Cloud.
-GOOGLE_SHEET_URL = "https://docs.google.com/spreadsheets/d/TU_ID_DE_HOJA_DE_CALCULO_AQUI/edit#gid=0"
+GOOGLE_SHEET_URL = "https://docs.google.com/spreadsheets/d/1kHnQJp5ruV0NvelWYEyXoeXX6dkzoiWlJSzG0wdGrTo/edit?gid=0#gid=0"
 
 # st.cache_resource: Solo se ejecuta una vez por sesión, o cuando los argumentos cambian.
 # ttl=3600: Cachea la conexión por 1 hora. Útil para evitar reconexiones constantes.
